@@ -1,0 +1,19 @@
+#navbar a{
+  padding:10px;
+  color: black;
+      font-size: 19px;
+      text-decoration: none;
+  float: left;
+  margin-left:50px;
+}
+#navbar a:hover {
+    color: white;
+    background-color: black;
+      border-radius:8px;
+    }
+     .active {
+      background-color: #2ca089;
+      border-radius:8px;
+      color: white;
+    font-style: bold;
+    }

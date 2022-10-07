@@ -1,0 +1,45 @@
+#header{
+    background-color: black;
+    color: white;
+    /* height: 100px; */
+    /* font-size: 23px; */
+    font-family:verdana;
+    text-align: right;
+    margin-top: 0px;
+    padding-top: 0px;
+
+  }
+      #navbar ul{
+         
+        /* margin:10px; */
+        margin-bottom: -200px;
+        
+        border-radius: 5px;
+        text-align:left;
+        padding: 10px;
+        border-radius: 5px;
+      }
+      #navbar {
+
+        /* display: inline; */
+        text-align:right;
+        margin-top:-70px;
+      }
+
+      #navbar a{
+        color: black;
+        padding: 10px;
+        font-size: 19px;
+        text-decoration: none;
+      }
+      #navbar a:hover {
+        color: white;
+        background-color: black;
+        border-radius:8px;
+      }
+       .active {
+        background-color: #2ca089;
+        border-radius:8px;
+        color: white;
+        font-style: bold;
+      }
